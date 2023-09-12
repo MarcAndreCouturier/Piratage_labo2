@@ -1,0 +1,15 @@
+C:\Users\Drahkor\Desktop\TechFo\Piratage\Sha256\bin\Debug\net6.0\Sha256.exe
+C:\Users\Drahkor\Desktop\TechFo\Piratage\Sha256\bin\Debug\net6.0\Sha256.deps.json
+C:\Users\Drahkor\Desktop\TechFo\Piratage\Sha256\bin\Debug\net6.0\Sha256.runtimeconfig.json
+C:\Users\Drahkor\Desktop\TechFo\Piratage\Sha256\bin\Debug\net6.0\Sha256.dll
+C:\Users\Drahkor\Desktop\TechFo\Piratage\Sha256\bin\Debug\net6.0\ref\Sha256.dll
+C:\Users\Drahkor\Desktop\TechFo\Piratage\Sha256\bin\Debug\net6.0\Sha256.pdb
+C:\Users\Drahkor\Desktop\TechFo\Piratage\Sha256\obj\Debug\net6.0\Sha256.csproj.AssemblyReference.cache
+C:\Users\Drahkor\Desktop\TechFo\Piratage\Sha256\obj\Debug\net6.0\Sha256.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Drahkor\Desktop\TechFo\Piratage\Sha256\obj\Debug\net6.0\Sha256.AssemblyInfoInputs.cache
+C:\Users\Drahkor\Desktop\TechFo\Piratage\Sha256\obj\Debug\net6.0\Sha256.AssemblyInfo.cs
+C:\Users\Drahkor\Desktop\TechFo\Piratage\Sha256\obj\Debug\net6.0\Sha256.csproj.CoreCompileInputs.cache
+C:\Users\Drahkor\Desktop\TechFo\Piratage\Sha256\obj\Debug\net6.0\Sha256.dll
+C:\Users\Drahkor\Desktop\TechFo\Piratage\Sha256\obj\Debug\net6.0\ref\Sha256.dll
+C:\Users\Drahkor\Desktop\TechFo\Piratage\Sha256\obj\Debug\net6.0\Sha256.pdb
+C:\Users\Drahkor\Desktop\TechFo\Piratage\Sha256\obj\Debug\net6.0\Sha256.genruntimeconfig.cache
